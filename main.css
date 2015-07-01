@@ -1,0 +1,140 @@
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+
+body {
+    margin-top: 0;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 0;
+}
+
+.footer {
+	width: 100%;
+}
+
+#main_list 
+{
+	margin-top: 5%;
+	margin-left: 12%;
+	width: 75%;
+}
+
+#add_model_form 
+{
+	margin-top: 5%;
+	margin-left: 22%;
+	width: 75%;
+}
+
+#login_form 
+{
+	margin-top: 6%;
+	margin-left: 38%;
+	width: 75%;
+}
+
+#add_model_form_submit
+{
+	margin-left: 15%;	
+}
+
+#login_form_submit
+{
+	margin-left: 12%;	
+}
+
+#logo_banner {
+	margin-top: 15px;
+}
+
+#main_banner {
+	text-align: left;	
+	margin-left: auto;
+	margin-right: auto;	
+	background: #5ac1d0;
+	width: 80%;
+	height: 50px;
+	border: 0;
+}
+
+#main_banner a {
+    color: #ffffff; 
+    margin-right: 15px; 
+}
+
+#header_signin, #header_signup{   	  
+    margin-top: 16px;
+	font-size: 16px;
+	float: right;	
+}
+
+
+#header_logo {
+	margin-top: 10px;
+	margin-left: 20px;
+	font-size: 27px;
+	float: left;
+}
+
+#login_message {
+	margin-top: 3%;
+	margin-left: 31%;
+	color: red;
+}
+
+#good_message {
+	margin-top: 3%;
+	margin-left: 36%;
+	color: #73c4a5;
+	font-size:larger;
+}
+
+#error_message {
+	margin-top: 3%;
+	margin-left: 36%;
+	color: red;
+	font-size:large;
+}
+
+#confirm_message {
+	margin-left: 33%;
+	margin-top: 35px;
+	color: black;
+	font-size:larger;
+}
+
+#index_stock {
+	margin-bottom: 30px;
+}
+
+#index_h2 {	
+	margin-left: 41.4%;
+	color: #73c4a5;
+}
+
+#success_1_h2 {	
+	margin-left: 35%;
+	color: #73c4a5;
+}
+
+#index-img-car {
+	margin-top: 20px;	
+	margin-left: 16%;
+}
+
+#index-img-reg {
+	margin-top: 20px;	
+	margin-left: 120px;
+	float: right;
+	margin-right: 18%;
+}
+
+
